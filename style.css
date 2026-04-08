@@ -3,8 +3,9 @@
 }
 
 body {
+  font-size: 1.2em;
   font-family: monospace;
-  background-color: red;
+  background-color: rgb(174, 236, 29);
 }
 
 main {
